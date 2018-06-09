@@ -1,0 +1,2 @@
+# frozen
+Frozen vanilla repository. 
